@@ -1,0 +1,34 @@
+body{
+    background-color: #F1E6D0;
+}
+
+.cima{
+    background-color: #AC8331;
+}
+
+.oque{
+    top: 54px;
+}
+
+.ongs{
+    background-color: #cab07c;
+    width: 400px;
+    height: 450px;
+    border: #000000;
+}
+
+.pq{
+    color: #000000;
+}
+
+.titulo{
+font-family: 'Inika';
+font-style: normal;
+
+background-color: #AC8231;
+border-radius: 82px;
+}
+
+.footer{
+    background-color: #AC8331;
+}
